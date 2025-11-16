@@ -1,10 +1,10 @@
 # SlimeBounce
 
-This repository will contain major complete versions of my personal Android game.
+This repository contains major complete versions of my personal Android game I've made a while back.
 
-I've made it because I wanted to showcase what I can do - in a way that also results in something I would call a fun game, made pretty much entirely by me. More on this in **State of the Game** below.
+I decided to make it because I wanted to showcase what I could do - in a way that also results in something I would call a fun game, made pretty much entirely by me.
 
-Each individual push is made in a private repository elsewhere, thus updates here are expected to be scarce. Check a dev branch for the project itself and changelog past previous releases.
+Each individual push was made in a private repository elsewhere. Check a dev branch for the project itself and for the changelog past previous releases.
 
 # Gameplay Overview
 
@@ -23,7 +23,7 @@ Progression is, of course, saved.
 
 # State of the Project
 
-There are no plans to make any additional contributions to the project, with branch dev_1.0.0 containt the complete implementation of my Game Design Document.
+There are no plans to make any additional contributions to the project, with branch dev_1.0.0 including the complete implementation of my Game Design Document.
 
 Some things are left in imperfect form, such as:
 - Game likely contains bugs, however nothing significant is registered by me at the moment.
